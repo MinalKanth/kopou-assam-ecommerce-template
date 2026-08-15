@@ -11,9 +11,9 @@ This README documents the project structure, design system, pages, functionality
 
 | Home | Shop |
 |---|---|
-| ![Home page](screenshots/kopou_1.png) | ![Shop page](screenshots/kopou_2.png) |
+| ![Home page](screenshots/kopou_1.png) | ![Shop Sections](screenshots/kopou_2.png) |
 
-| Product Details | Cart & Checkout |
+| Product Sections | Other Sections |
 |---|---|
 | ![Product details page](screenshots/kopou_3.png) | ![Cart and checkout page](screenshots/kopou_4.png) |
 
